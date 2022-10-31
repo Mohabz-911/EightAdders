@@ -1,3 +1,4 @@
+`include "carry_select_adder.v"
 
 module test();
 reg[31:0] a,b;
