@@ -1,0 +1,16 @@
+Fathi:
+Verilog (+) version of adders
+Carry Save Adder
+TestBench
+
+Mohab:
+Ripple Carry Adder
+Carry Skip Adder
+
+Madbouly:
+Carry Look-Ahead Adder
+Carry Increment Adder
+
+Doaa:
+Carry Bypass Adder
+Carry Select Adder
